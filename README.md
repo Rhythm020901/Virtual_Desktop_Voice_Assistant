@@ -5,4 +5,4 @@
 
 
 # 2. Description :
-The voice assistant takes the input voice command and executes the task accordingly. It can perform various tasks such as 
+The voice assistant takes the input voice command and executes the task accordingly. It can perform various tasks such as wish according to time , open and close applications , play songs , automate youtube and google , tell jokes ,  
