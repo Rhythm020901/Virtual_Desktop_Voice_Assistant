@@ -9,7 +9,6 @@ The voice assistant takes the input voice command and executes the task accordin
 
 # 3. Screenshots of working :
 
-![IMG_20221217_171827](https://user-images.githubusercontent.com/114925607/208240499-23101ce3-e191-4b3f-a463-e4362f8d9910.jpg)
 ![IMG_20221217_171936](https://user-images.githubusercontent.com/114925607/208240502-b44e459e-9bdb-40fb-8f86-241a17e02526.jpg)
 
 ![IMG_20221217_171951](https://user-images.githubusercontent.com/114925607/208240503-504f52d0-8aaa-4859-b74b-6d286fde529e.jpg)
